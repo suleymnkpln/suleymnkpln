@@ -1,9 +1,5 @@
 # Merhaba, Ben Süleyman! 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=392cf5&height=200&section=header&text=Süleyman%20Kaplan&fontSize=90&animation=fadeIn" />
-</div>
-
 ### 💫 Hakkımda
 - 🚀 **Full-Stack Developer** yolculuğunda modern teknolojilerle projeler geliştiriyorum.
 - 💻 **PHP, Laravel** ve **C#** ile back-end mimarileri üzerine çalışıyorum.
@@ -22,11 +18,11 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-<p align="center">
+[<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suleymnkpln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymnkpln&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+</p>](url)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymnkpln&theme=tokyonight" />
