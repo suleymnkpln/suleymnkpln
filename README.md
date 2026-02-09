@@ -5,19 +5,20 @@
 </div>
 
 ### 💫 Hakkımda
-- 🚀 Şu anda kendimi yazılım alanında geliştiriyorum.
-- 📚 Sürekli yeni teknolojiler öğrenmeye meraklıyım.
-- 🇵🇱 Polonya lehçesi (Polonca) öğreniyorum.
-- 🎯 Hedefim: Modern teknolojilerle etkileyici projeler inşa etmek.
+- 🚀 Full-stack geliştirme yolculuğunda kendimi geliştiriyorum.
+- 📚 Modern frameworkler ve kurumsal diller üzerine çalışıyorum.
+- 🎯 Hedefim: Performanslı ve ölçeklenebilir uygulamalar geliştirmek.
 
 ---
 
 ### 🛠️ Teknolojiler ve Araçlar
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python&perline=7" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,cs,react,js,python,git,github,vscode&perline=9" />
   </a>
 </p>
+
+> **Not:** `react` ikonu React Native'i de temsil eder; görsel olarak en şık bu şekilde durmaktadır.
 
 ---
 
