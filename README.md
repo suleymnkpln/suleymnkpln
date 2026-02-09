@@ -1,42 +1,51 @@
 # Merhaba, Ben Süleyman! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Süleyman%20Kaplan&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=392cf5&height=200&section=header&text=Süleyman%20Kaplan&fontSize=90&animation=fadeIn" />
 </div>
 
 ### 💫 Hakkımda
-- 🚀 Full-stack geliştirme yolculuğunda kendimi geliştiriyorum.
-- 📚 Modern frameworkler ve kurumsal diller üzerine çalışıyorum.
-- 🎯 Hedefim: Performanslı ve ölçeklenebilir uygulamalar geliştirmek.
+- 🚀 **Full-Stack Developer** yolculuğunda modern teknolojilerle projeler geliştiriyorum.
+- 💻 **PHP, Laravel** ve **C#** ile back-end mimarileri üzerine çalışıyorum.
+- 📱 **React Native** kullanarak mobil uygulama dünyasını keşfediyorum.
+- 🎯 Hedefim: Temiz kod prensiplerine uygun, kullanıcı dostu çözümler üretmek.
 
 ---
 
 ### 🛠️ Teknolojiler ve Araçlar
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,cs,react,js,python,git,github,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,react,js,python,mysql,git,github,vscode&perline=11" />
   </a>
 </p>
-
-> **Not:** `react` ikonu React Native'i de temsil eder; görsel olarak en şık bu şekilde durmaktadır.
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suleymnkpln&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymnkpln&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suleymnkpln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymnkpln&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymnkpln&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın
 <p align="left">
-  <a href="https://linkedin.com/in/suleymnkpln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleymnkpln" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/suleymnkpln" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eposta-adresin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymnkpln&theme=dracula" alt="suleymnkpln streak" />
+  <img src="https://komarev.com/ghpvc/?username=suleymnkpln&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="suleymnkpln" />
 </div>
